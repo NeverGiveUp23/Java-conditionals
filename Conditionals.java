@@ -1,7 +1,7 @@
 public class Conditionals{
   public static void main(String[] args) {
     int temperature = 85;
-    boolean isCloudy = true;
+    boolean isCloudy = false;
 
     if(temperature < 40 && isCloudy){
       System.out.println("It might snow.");
